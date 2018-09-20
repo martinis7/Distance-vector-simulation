@@ -1,0 +1,9 @@
+c:\users\martynas\documents\visual studio 2015\Projects\DistanceVector\DistanceVector\bin\Debug\DistanceVector.exe.config
+c:\users\martynas\documents\visual studio 2015\Projects\DistanceVector\DistanceVector\bin\Debug\DistanceVector.exe
+c:\users\martynas\documents\visual studio 2015\Projects\DistanceVector\DistanceVector\bin\Debug\DistanceVector.pdb
+c:\users\martynas\documents\visual studio 2015\Projects\DistanceVector\DistanceVector\obj\Debug\DistanceVector.csprojResolveAssemblyReference.cache
+c:\users\martynas\documents\visual studio 2015\Projects\DistanceVector\DistanceVector\obj\Debug\DistanceVector.DistanceVectorForm.resources
+c:\users\martynas\documents\visual studio 2015\Projects\DistanceVector\DistanceVector\obj\Debug\DistanceVector.Properties.Resources.resources
+c:\users\martynas\documents\visual studio 2015\Projects\DistanceVector\DistanceVector\obj\Debug\DistanceVector.csproj.GenerateResource.Cache
+c:\users\martynas\documents\visual studio 2015\Projects\DistanceVector\DistanceVector\obj\Debug\DistanceVector.exe
+c:\users\martynas\documents\visual studio 2015\Projects\DistanceVector\DistanceVector\obj\Debug\DistanceVector.pdb
